@@ -24,4 +24,4 @@ Salt (Providing a list with the inverted bones)
 
 Njaecha (Code optimization and managing the github files)
 
-Heuwu (Helped on editing instructions in Readme page)
+HeartBee (Helped on making instructions in Readme page)
