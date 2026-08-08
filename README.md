@@ -12,16 +12,17 @@ when exporting, tick enable the `Inverted Bones Fix`, and ALWAYS disable the `Ad
 
 ![3](https://github.com/user-attachments/assets/7570ea16-d655-4530-8ce7-33394360191e)
 
-
+Make sure to read [Stellar Blade Modding Wiki guide](https://github.com/Stellar-Blade-Modding-Team/Stellar-Blade-Modding-Guide/wiki/Models) by HeartBee for further more informations.
 
 
 
 
 
 Huge thanks to: 
+HeartBee (Providing detailed instructions on Readme page)
 
 Salt (Providing a list with the inverted bones)
 
 Njaecha (Code optimization and managing the github files)
 
-HeartBee (Making detailed instructions on Readme page)
+
